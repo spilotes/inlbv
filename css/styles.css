@@ -215,6 +215,7 @@ span {
 
   .container {
     top: 7em;
+    width: 12rem;
     height: 19rem;
   }
 
@@ -231,12 +232,12 @@ span {
   }
 
   .container .meses-ano2 {
-    top: 29vh;
+    top: 28vh;
   }
 
   .login {
     width: 100%;
-    bottom: 5rem;
+    bottom: 6rem;
   }
 
   .login .user {
