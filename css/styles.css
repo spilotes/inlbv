@@ -208,18 +208,22 @@ span {
     transform: translate(-50%);
   }
 
+  .saudacao {
+    top: 27vh;
+  }
+
   .container {
-    height: 23rem;
+    height: 22rem;
   }
 
   .login .user {
-    left: 40.5%;
+    left: 36.5%;
     transform: translate(-50%);
   }
 
   .login .senha {
     position: absolute;
-    left: 60.5%;
+    left: 64.5%;
     transform: translate(-50%);
   }
 }
