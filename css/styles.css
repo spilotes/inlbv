@@ -222,13 +222,13 @@ span {
   }
 
   .login .user {
-    left: 36.5%;
+    left: 30.5%;
     transform: translate(-50%);
   }
 
   .login .senha {
     position: absolute;
-    left: 64.5%;
+    left: 70.5%;
     transform: translate(-50%);
   }
 }
