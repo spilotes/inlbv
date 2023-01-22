@@ -195,7 +195,8 @@ span {
   h1 {
     left: 50%;
     transform: translate(-50%);
-    width: 100%;
+    white-space: nowrap;
+    letter-spacing: 0.3rem;
   }
 
   .logo1 {
@@ -214,6 +215,10 @@ span {
 
   .container {
     height: 22rem;
+  }
+
+  .login {
+    width: 100%;
   }
 
   .login .user {
