@@ -214,19 +214,28 @@ span {
   }
 
   .container {
-    height: 20rem;
+    height: 19rem;
   }
 
   .container h2 {
     font-size: 1.3rem;
   }
 
+  .container h4 {
+    top: 6vh;
+  }
+
+  .container .meses-ano1 {
+    top: 11vh;
+  }
+
   .container .meses-ano2 {
-    top: 30vh;
+    top: 38vh;
   }
 
   .login {
     width: 100%;
+    bottom: 2rem;
   }
 
   .login .user {
