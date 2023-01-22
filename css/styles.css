@@ -193,16 +193,33 @@ span {
   }
 
   h1 {
-    width: 100vw;
+    left: 50%;
+    transform: translate(-50%);
+    width: 100%;
   }
 
   .logo1 {
-    left: 44%;
+    left: 40%;
     transform: translate(-50%);
   }
 
   .lbv1 {
-    left: 56%;
+    left: 60%;
+    transform: translate(-50%);
+  }
+
+  .container {
+    height: 23rem;
+  }
+
+  .login .user {
+    left: 40.5%;
+    transform: translate(-50%);
+  }
+
+  .login .senha {
+    position: absolute;
+    left: 60.5%;
     transform: translate(-50%);
   }
 }
