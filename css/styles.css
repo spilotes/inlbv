@@ -211,6 +211,7 @@ span {
 
   .saudacao {
     top: 27vh;
+    white-space: nowrap;
   }
 
   .container {
