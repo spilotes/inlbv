@@ -222,13 +222,14 @@ span {
   }
 
   .login .user {
-    left: 30.5%;
+    left: 30%;
     transform: translate(-50%);
   }
 
   .login .senha {
+    white-space: nowrap;
     position: absolute;
-    left: 70.5%;
+    left: 70%;
     transform: translate(-50%);
   }
 }
