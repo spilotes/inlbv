@@ -214,7 +214,15 @@ span {
   }
 
   .container {
-    height: 22rem;
+    height: 20rem;
+  }
+
+  .container h2 {
+    font-size: 1.3rem;
+  }
+
+  .container .meses-ano2 h5 {
+    top: 30vh;
   }
 
   .login {
