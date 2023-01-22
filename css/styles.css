@@ -230,12 +230,12 @@ span {
   }
 
   .container .meses-ano2 {
-    top: 38vh;
+    top: 34vh;
   }
 
   .login {
     width: 100%;
-    bottom: 2rem;
+    bottom: 5rem;
   }
 
   .login .user {
