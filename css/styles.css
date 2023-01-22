@@ -191,4 +191,18 @@ span {
   body {
     height: 100vh;
   }
+
+  h1 {
+    width: 100vw;
+  }
+
+  .logo1 {
+    left: 44%;
+    transform: translate(-50%);
+  }
+
+  .lbv1 {
+    left: 56%;
+    transform: translate(-50%);
+  }
 }
